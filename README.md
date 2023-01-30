@@ -6,7 +6,5 @@ This directory contains the code required to run the experiments to produce the 
 To get started and download all dependencies, run:
 
 ```
-{
 pip install -r requirements.txt 
-}
 ```
