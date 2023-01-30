@@ -8,3 +8,11 @@ To get started and download all dependencies, run:
 ```
 pip install -r requirements.txt 
 ```
+## Minder dataset
+See `Minder`.
+
+## Gait in Aging and Disease Dataset (GADD)
+See `GADD`.
+
+## PTB Diagnostic ECG Database (PTBDB)
+See `PTBDB`.
