@@ -3,11 +3,14 @@ This repository includes the code for Gait in Aging and Disease Dataset (GADD).
 
 ## Raw Data
 Download the [orginal data](https://www.physionet.org/content/ptbdb/1.0.0/)[1]. 
+
 Download the [pre-processed data](https://www.kaggle.com/datasets/shayanfazeli/heartbeat).
 
 ## Visualisation of the raw data
 For the normal participants:
-<img src="./Figures/plot_original_data_abnormal_1.png" width="100">
+
+<img src="./Figures/plot_original_data_abnormal_1.png" width="500">
+
 <!-- ![](./Figures/plot_original_data_abnormal_1.png =50x50)
 ![image info](./Figures/plot_original_data_abnormal_1.png) -->
 <!-- ![Normal_1](/Figures/plot_original_data_normal_1.png)
