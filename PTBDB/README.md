@@ -22,7 +22,9 @@ Generate baseline features and entropy features, shown as `generate_entropy.ipyn
 
 Select entropy features by Pearson relationship matrix and mutual information.
 
-<figure>
+[<img src="./Figures/EntropySelection1.png" width="450"/>](image.png)
+
+<!-- <figure>
     <img src="./Figures/EntropySelection1.png" width="400">
     <figcaption>Pearson relationship matrix<figcaption>
 <figure>
@@ -30,7 +32,7 @@ Select entropy features by Pearson relationship matrix and mutual information.
 <figure>
     <img src="./Figures/EntropySelection2.png" width="400">
     <figcaption>Mutual information<figcaption>
-<figure>
+<figure> -->
 
 <!-- <img src="./Figures/EntropySelection1.png" width="400" alt="Pearson relationship matrix"> 
 
