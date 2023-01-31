@@ -21,14 +21,15 @@ The code is in `generate_entropy.ipynb`.
 Generate baseline features and entropy features, shown as `generate_entropy.ipynb`.
 
 Select entropy features by Pearson relationship matrix and mutual information.
-<img src="./Figures/EntropySelection1.png" width="300" title="Pearson relationship matrix"> <img src="./Figures/EntropySelection2.png" width="300" title="Mutual information">
+<img src="./Figures/EntropySelection1.png" width="500" alt="Pearson relationship matrix"> 
+
+<img src="./Figures/EntropySelection2.png" width="400" alt="Mutual information">
 
 ## Modelling and results
 ### Logistic regression (LR)
 The code is shown in `model_lr_baseline.ipynb` and `model_lr_entropy.ipynb`.
 
 The evaluation results are:
-
 <img src="./Figures/plot_result_LR.png" width="300" title="The evaluation results of LR">
 
 ### Support vector machine (SVM)
