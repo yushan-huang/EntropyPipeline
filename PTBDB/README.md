@@ -7,8 +7,9 @@ Download the [pre-processed data](https://www.kaggle.com/datasets/shayanfazeli/h
 
 ## Visualisation of the raw data
 For the normal participants:
-![](./Figures/plot_original_data_abnormal_1.png =50x50)
-<!-- ![image info](./Figures/plot_original_data_abnormal_1.png) -->
+<img src="./Figures/plot_original_data_abnormal_1.png" width="100">
+<!-- ![](./Figures/plot_original_data_abnormal_1.png =50x50)
+![image info](./Figures/plot_original_data_abnormal_1.png) -->
 <!-- ![Normal_1](/Figures/plot_original_data_normal_1.png)
 ![image info](./pictures/image.png)
 ![Normal_2](/Figures/plot_original_data_normal_2.png)
