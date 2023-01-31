@@ -7,19 +7,20 @@ Download the [pre-processed data](https://www.kaggle.com/datasets/shayanfazeli/h
 
 ## Visualisation of the raw data
 For the normal participants:
+![image info](./Figures/plot_original_data_abnormal_1.png)
 <!-- ![Normal_1](/Figures/plot_original_data_normal_1.png)
+![image info](./pictures/image.png)
 ![Normal_2](/Figures/plot_original_data_normal_2.png)
 
 For the abnoraml participants:
 ![Noraml_1](/Figures/plot_original_data_abnormal_1.png)
 ![Noraml_2](/Figures/plot_original_data_abnormal_2.png) -->
 
-```{image} ../Figures/plot_original_data_normal_1.png
+{image} ../Figures/plot_original_data_normal_1.png
 :alt: fishy
 :class: bg-primary mb-1
 :width: 200px
 :align: center
-```
 
 The code is in `generate_entropy.ipynb`.
 
