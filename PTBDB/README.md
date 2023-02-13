@@ -1,10 +1,12 @@
 # Gait in Aging and Disease Dataset (GADD)
-This repository includes the code for Gait in Aging and Disease Dataset (GADD).
+This repository includes the code for PTB Diagnostic ECG Database.
 
 ## Raw Data
 Download the [orginal data](https://www.physionet.org/content/ptbdb/1.0.0/)[1]. 
 
 Download the [pre-processed data](https://www.kaggle.com/datasets/shayanfazeli/heartbeat).
+
+Here we utilize the pre-processed data.
 
 ## Visualisation of the pre-processed data
 For the normal participants:
@@ -37,6 +39,8 @@ The code is shown in `network_pytorch`.
 The evaluation results are:
 
 <img src="./Figures/plot_result_all.png" width="300" title="The evaluation results">
+
+The code is shown in `plot_result.ipynb`.
 
 
 [1]Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215 - e220.
