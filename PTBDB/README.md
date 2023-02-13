@@ -1,4 +1,4 @@
-# Gait in Aging and Disease Dataset (GADD)
+# PTB Diagnostic ECG Database (PTBDB)
 This repository includes the code for PTB Diagnostic ECG Database.
 
 ## Raw Data
