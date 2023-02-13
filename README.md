@@ -19,7 +19,7 @@ Download the [orginal data](https://archive.ics.uci.edu/ml/datasets/Epileptic+Se
 
 ### 3.2 Visualisation of the pre-processed data
 
-<img src="./ESRD/Figures/plot_result_raw.png" width="300"> 
+<img src="./ESRD/Figures/plot_result_raw.png" width="400"> 
 
 The code is in `./ESRD/plot_raw.ipynb`.
 
