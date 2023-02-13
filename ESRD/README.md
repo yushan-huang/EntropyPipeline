@@ -1,4 +1,4 @@
-# Gait in Aging and Disease Dataset (ESRD)
+# Epileptic Seizure Recognition Dataset (ESRD)
 This repository includes the code for Epileptic Seizure Recognition Dataset (ESRD).
 
 ## Raw Data
