@@ -40,7 +40,7 @@ Generate entropy features, shown as `./PTBDB/generate_entropy.ipynb`.
 
 Select entropy features by Pearson relationship matrix and mutual information.
 
-<img src="./Figures/EntropySelection1.png" width="400" alt="Pearson relationship matrix">  <img src="./Figures/EntropySelection2.png" width="400" alt="Mutual information">
+<img src="./PTBDB/Figures/EntropySelection1.png" width="400" alt="Pearson relationship matrix">  <img src="./PTBDB/Figures/EntropySelection2.png" width="400" alt="Mutual information">
 
 ### 4.4 Modelling and results
 ####  (1) Baseline-CNN
