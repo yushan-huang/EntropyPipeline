@@ -1,0 +1,55 @@
+PLEASE NOTE: THIS COLLECTION OF HUMAN HEART RATE AND GAIT DATABASES
+WAS CONSTRUCTED AS A TEACHING RESOURCE FOR THE NECSI INTENSIVE COURSE
+(OCTOBER 1999): "THE MODERN SCIENCE OF HUMAN AGING"
+(www.necsi.org). AS SUCH, THIS SPECIFIC "MINI-COLLECTION" IS NOT
+INTENDED FOR BASIC RESEARCH/PUBLICATIONS. HOWEVER, IT MAY BE USEFUL IN
+OTHER CLASSROOM OR TUTORIAL SETTINGS, AND FOR SELF-GUIDED EXPLORATIONS
+INTO THE WORLD OF BIOLOGIC COMPLEXITY. FOR CURRENTLY AVAILABLE
+RESEARCH DATABASES, PLEASE CONSULT THE WEBSITE OF THE RESEARCH
+RESOURCE FOR COMPLEX PHYSIOLOGIC SIGNALS (www.physionet.org).
+
+Walking stride interval time series included are from 15 subjects: 5
+healthy young adults (23 - 29 yrs old), 5 healthy old adults (71 - 77
+yrs old), and 5 older adults (60 to 77 yrs old) with Parkinson's
+disease. The file name indicates old (o), young (y) or Parkinson's
+disease (pd). For the old and young subjects, the age (years) is also
+included in the filename.
+
+For each subject, two columns of data are included. The first column
+is time (in seconds) and the second is the stride interval aka the
+stride time aka gait cycle duration aka  the time between successive
+heel strikes of the same foot. 
+
+Subjects walked continuously on level ground around an obstacle free,
+path and the stride interval was measured using ultra-thin, force
+sensitive resistors placed inside the shoe.  The analog force signal
+was sampled at 300 Hz, converted to a digital signal using 12 bit A/D
+converter using an ambulatory, ankle-worn micro-computer that also
+recorded the data.  Subsequently, the time between foot-strikes was
+automatically computed. The method for determining the stride interval
+is a modification of a previously validated method that has been shown
+to agree with force-platform measures, ``gold'' standard.
+
+Data from the healthy subjects collected as subjects walked in roughly
+circular path for 15 minutes. Data from the subjects with Parkinson's
+disease collected as subjects walked for 6 minutes up and down a long
+hallway.
+
+For additional information, please see www.physionet.org.
+The following references may also be of interest:
+
+JM Hausdorff, PL Purdon, CK Peng, Z Ladin, JY Wei,
+AL Goldberger. Fractal dynamics of human gait: stability of
+long-range correlations in stride interval fluctuations.
+J Appl Physiol 80:1448-1457, 1996.
+
+JM Hausdorff, SL Mitchell, R Firtion, CK. Peng, ME Cudkowicz, JY Wei
+and AL Goldberger.  Altered fractal dynamics of gait: reduced stride
+interval correlations  with aging and Huntington's disease.
+J Appl Physiol 82:262-269, 1997.
+
+JM Hausdorff, ME Cudkowicz, R Firtion, JY Wei, AL Goldberger.  Gait
+variability and basal ganglia disorders: stride-to-stride variations
+of gait cycle timing in Parkinson's and Huntington's disease. Mov
+Disord 13:428-437, 1998.
+
