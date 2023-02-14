@@ -15,22 +15,22 @@ To apply and download the dataset, please contact with [Prof. Payam Barnaghi](ma
 Generate entropy features, shown as `EntropyFeatures`.
 
 Entropy features for the Minder dataset includes: 
-Entropy of Markov chains: `./Modelling/activity_daytime_per_week_mk_entropy.ipynb`, `./Modelling/activity_night_per_week_mk_entropy.ipynb`  
+Entropy of Markov chains: `./EntropyFeatures/activity_daytime_per_week_mk_entropy.ipynb`, `./EntropyFeatures/activity_night_per_week_mk_entropy.ipynb`  
 
 
-Entropy rate of Markov chains: `./Modelling/activity_daytime_per_week_mk_entropy_rate.ipynb`, `./Modelling/activity_night_per_week_mk_entropy_rate.ipynb`  
+Entropy rate of Markov chains: `./EntropyFeatures/activity_daytime_per_week_mk_entropy_rate.ipynb`, `./EntropyFeatures/activity_night_per_week_mk_entropy_rate.ipynb`  
 
 
-Entropy production of Markov chains: `./Modelling/activity_daytime_per_week_mk_entropy_production.ipynb`, `./Modelling/activity_night_per_week_mk_entropy_production.ipynb`  
+Entropy production of Markov chains: `./EntropyFeatures/activity_daytime_per_week_mk_entropy_production.ipynb`, `./EntropyFeatures/activity_night_per_week_mk_entropy_production.ipynb`  
 
 
-Von Neumann Entropy of Markov chains (activity frequency): `./Modelling/activity_daytime_per_week_mk_vn_entropy_frequency.ipynb`, `./Modelling/activity_night_per_week_mk_vn_entropy_frequency.ipynb`  
+Von Neumann Entropy of Markov chains (activity frequency): `./EntropyFeatures/activity_daytime_per_week_mk_vn_entropy_frequency.ipynb`, `./EntropyFeatures/activity_night_per_week_mk_vn_entropy_frequency.ipynb`  
 
 
-Von Neumann Entropy of Markov chains (activity duration): `./Modelling/activity_daytime_per_week_mk_vn_entropy_duration.ipynb`, `./Modelling/activity_night_per_week_mk_vn_entropy_duration.ipynb` 
+Von Neumann Entropy of Markov chains (activity duration): `./EntropyFeatures/activity_daytime_per_week_mk_vn_entropy_duration.ipynb`, `./EntropyFeatures/activity_night_per_week_mk_vn_entropy_duration.ipynb` 
 
 
-The baseline features: `./Modelling/activity_daytime_night_per_week_frequency.ipynb`
+The baseline features: `./EntropyFeatures/activity_daytime_night_per_week_frequency.ipynb`
 
 ## Modelling and results
 
