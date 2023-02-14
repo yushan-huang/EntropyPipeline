@@ -1,9 +1,9 @@
-# Epileptic Seizure Recognition Dataset (ESRD)
-This repository includes the code for Minder Dataset (ESRD).
+# Minder
+This repository includes the code for the Minder Dataset.
 
 ## Raw Data
-The Minder dataset is privacy.
-To apply and download the dataset, please contact with [Prof. Payam Barnaghi](mailto:p.barnaghi@imperial.ac.uk)  
+The Minder dataset is not public.
+To apply and download the dataset, please contact with [Prof. Payam Barnaghi](mailto:p.barnaghi@imperial.ac.uk).
 
 ## Visualisation of the pre-processed data
 
@@ -36,4 +36,4 @@ The baseline features: `./EntropyFeatures/activity_daytime_night_per_week_freque
 
 The evaluation results are:
 
-<img src="./Figures/results.png" width="800" title="The evaluation results">
+<img src="./Figures/results.png" width="1000" title="The evaluation results">
