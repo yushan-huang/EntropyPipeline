@@ -40,7 +40,7 @@ Von Neumann Entropy of Markov chains (activity duration): `./MINDER/EntropyFeatu
 
 The baseline features: `./MINDER/EntropyFeatures/activity_daytime_night_per_week_frequency.ipynb`
 
-## Modelling and results
+### 2.4 Modelling and results
 
 The evaluation results are:
 
