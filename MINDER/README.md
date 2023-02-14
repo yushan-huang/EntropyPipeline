@@ -7,7 +7,7 @@ To apply and download the dataset, please contact with [Prof. Payam Barnaghi](ma
 
 ## Visualisation of the pre-processed data
 
-<img src="./Figures/raw_data.png" width="800"> 
+<img src=".MINDER/Figures/raw_data.png" width="800"> 
 
 
 ## Feature generation and selection

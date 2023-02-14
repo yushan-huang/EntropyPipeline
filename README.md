@@ -15,7 +15,7 @@ To apply and download the dataset, please contact with [Prof. Payam Barnaghi](ma
 
 ### 2.2 Visualisation of the pre-processed data
 
-<img src="./Figures/raw_data.png" width="800"> 
+<img src="./MINDER/Figures/raw_data.png" width="800"> 
 
 
 ### 2.3 Feature generation and selection
@@ -44,7 +44,7 @@ The baseline features: `./MINDER/Modelling/activity_daytime_night_per_week_frequ
 
 The evaluation results are:
 
-<img src="./Figures/results.png" width="1000" title="The evaluation results">
+<img src="./MINDER/Figures/results.png" width="1000" title="The evaluation results">
 
 
 
