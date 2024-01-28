@@ -15,8 +15,8 @@ pip install -r requirements.txt
 ```
 ## 2. Minder dataset
 ### 2.1 Raw Data
-The Minder dataset is privacy.
-To apply and download the dataset, please contact with [Prof. Payam Barnaghi](mailto:p.barnaghi@imperial.ac.uk).
+The Minder dataset is not public.
+To apply and download the dataset, please contact: [Payam Barnaghi](mailto:p.barnaghi@imperial.ac.uk).
 
 ### 2.2 Visualisation of the pre-processed data
 
