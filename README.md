@@ -6,8 +6,6 @@
 This repository includes the code required to reproduce the experiments and figures in the pre-print paper "Analyzing Entropy Features in Time-Series Data for Pattern Recognition in Neurological Conditions".
 
 ## 1. Requirements
-This directory contains the code required to run the experiments to produce the results presented in the paper "Information Theory Inspired Pattern Analysis for Time-series Data"
-
 To get started and download all dependencies, run:
 
 ```
