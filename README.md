@@ -3,7 +3,9 @@
 
 
 # Analyzing Entropy Features in Time-Series Data for Pattern Recognition in Neurological Conditions
-This repository includes the code required to reproduce the experiments and figures in the pre-print paper "Analyzing Entropy Features in Time-Series Data for Pattern Recognition in Neurological Conditions".
+This repository includes the code required to reproduce the experiments and figures in the paper:
+
+**Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Analyzing entropy features in time-series data for pattern recognition in neurological conditions." Accepted to *[Artificial Intelligence in Medicine, Elsevier](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine).* [Paper](https://www.sciencedirect.com/science/article/pii/S0933365724000630), [Code](https://github.com/yushan-huang/EntropyPipeline)
 
 ## 1. Requirements
 To get started and download all dependencies, run:
