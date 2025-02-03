@@ -1,5 +1,4 @@
 
-## Note: The code in this repo is an older version, the new version will be updated soon...
 
 
 # Analyzing Entropy Features in Time-Series Data for Pattern Recognition in Neurological Conditions
